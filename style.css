@@ -12,8 +12,9 @@ h1 {
 }
 
 .contact {
-  background: lightskyblue;
-  color: white;
   display: flex;
   justify-content: center;
+  padding: 20px;
+  margin: 20px;
+  border: 1px;
 }
