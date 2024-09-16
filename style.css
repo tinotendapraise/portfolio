@@ -1,0 +1,19 @@
+.intro {
+  text-align: center;
+}
+h2 {
+  color: lightskyblue;
+  margin: 20px;
+  padding: 20px;
+}
+h1 {
+  font-weight: 48;
+  color: palevioletred;
+}
+
+.contact {
+  background: lightskyblue;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
